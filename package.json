@@ -12,7 +12,7 @@
     "src": "source code"
   },
   "dependencies": {
-    "three": "^0.90.0",
+    "three": "^0.125.0",
     "stats.js": "^0.17.0"
   },
   "devDependencies": {
